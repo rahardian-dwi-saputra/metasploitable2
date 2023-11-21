@@ -40,6 +40,13 @@ nmap -sn 192.168.1.0/24
 - [Port 80 HTTP](Exploit%20Port%2080%20HTTP.md)
 - [Port 139 dan 445 SMB](Exploit%20Port%20139%20dan%20445%20SMB.md)
 - [Port 1099 Java RMI](Exploit%20Port%201099%20Java%20RMI.md)
+- [Port 2121 FTP](Exploit%20Port%202121%20FTP.md)
+- [Port 3306 MySQL](Exploit%20Port%203306%20MySQL.md)
+- [Port 3632 distccd](Exploit%20Port%203632%20distccd.md)
+- [Port 5432 PostgreSQL](Exploit%20Port%205432%20PostgreSQL.md)
+- [Port 5900 VNC](Exploit%20Port%205900%20VNC.md)
+- [Port 6667 dan 6697 UnreallRCd](Exploit%20Port%206667%20dan%206697%20UnreallRCd.md)
+- [Port 8180 Apache Tomcat](Exploit%20Port%208180%20Tomcat.md)
 
 ## Peringatan
 Semua materi yang disajikan disini hanya digunakan sebagai media pembelajaran. Penulis tidak bertanggung jawab atas penyalahgunaan dari materi tersebut
